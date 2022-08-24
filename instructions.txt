@@ -19,9 +19,9 @@ Instrucciones para instalar mod en minecraft para jugar en mi servidor:
 
 instrucciones para usuar shaders
 1.-ejecutar optifine de los mods en su carpeta .Minecraft (paso 6 de la instalacion de mods)
-3.-abrir minecraft desde el launcher para que se cree la carpeta shaders
-4.-mover el shader copiado desde el repositorio o descargado (si quieren otro shader) a la carpeta shaders
-5.-para usar el shader entran en el juego en opciones -> graficos -> shaders y seleeccionar el shader instaldo o copiado desde el repositorio
+3.-abrir minecraft desde el launcher para que se cree la carpeta shaderpacks
+4.-mover el shader copiado desde el repositorio o descargado (si quieren otro shader) a la carpeta shaderpacks
+5.-para usar el shader entrar en el juego en opciones -> graficos -> shaders y seleeccionar el shader instaldo o copiado desde el repositorio
 6.-ya pueden jugar con mods y shader
 
 #gracias
