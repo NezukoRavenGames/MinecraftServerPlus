@@ -1,0 +1,28 @@
+Instrucciones para instalar mod en minecraft para jugar en mi servidor:
+1.-Instalar minecraft original desde la tienda de windows o un launcher como TLauncher (https://tlauncher.org/installer)
+2.-Clonar el repositorio con "git clone" (sin comillas)
+3.-Instalar forge que se encuentra en el repositorio
+4.-Ejecutar y seleccionar instalar cliente
+5.-Ejecutar minecraft desde el launcher con forge (se creara automaticamente la carpeta de mods)
+6.-Precionar la tecla windows + R (se abrira ejecutar) y escribir "%appdata%" (sin comillas)
+7.-ingresar a la carpeta .Minecraft y luego a la capreta mods
+8.-copiar los mod del repositorio copiado a la carpeta mods (incuido optifine)
+9.-cerrar el minecraft si no lo han hecho y abranlo de nuevo (en la opcion mod del inicio de minecraft deven aparecer todos los mod instalados)
+10.-Ingresar en la opcion Multijugador
+11.-Ingresar en la opcion agregar servidor
+13.-llenar los campos con Nombre: (a eleccion) e ip: 34.95.135.39
+14.-disfruten los el juego
+
+#hableneme para poder darles permisos de construcción si no lo tienen
+#informar cualquier error
+#por ahora el server durará 3 meses
+
+instrucciones para usuar shaders
+1.-ejecutar optifine de los mods en su carpeta .Minecraft (paso 6 de la instalacion de mods)
+3.-abrir minecraft desde el launcher para que se cree la carpeta shaders
+4.-mover el shader copiado desde el repositorio o descargado (si quieren otro shader) a la carpeta shaders
+5.-para usar el shader entran en el juego en opciones -> graficos -> shaders y seleeccionar el shader instaldo o copiado desde el repositorio
+6.-ya pueden jugar con mods y shader
+
+#gracias
+#consultas abisar por discord o whatsapp
