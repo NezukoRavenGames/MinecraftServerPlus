@@ -1,6 +1,6 @@
 Instrucciones para instalar mod en minecraft para jugar en mi servidor:
 1.-Instalar minecraft original desde la tienda de windows o un launcher como TLauncher (https://tlauncher.org/installer)
-2.-Clonar el repositorio con "git clone" (sin comillas)
+2.-Descargar el repositorio en formato .zip desde github en code->Download zip
 3.-Instalar forge que se encuentra en el repositorio
 4.-Ejecutar y seleccionar instalar cliente
 5.-Ejecutar minecraft desde el launcher con forge (se creara automaticamente la carpeta de mods)
