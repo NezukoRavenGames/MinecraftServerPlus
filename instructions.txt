@@ -1,4 +1,5 @@
 Instrucciones para instalar mod en minecraft para jugar en mi servidor:
+preinstalacion: tener instalado jdk para la ejecucion de forge y los mod -> enalce: https://www.oracle.com/java/technologies/downloads/#java19
 1.-Instalar minecraft original desde la tienda de windows o un launcher como TLauncher (https://tlauncher.org/installer)
 2.-Descargar el repositorio en formato .zip desde github en code->Download zip
 3.-Instalar forge que se encuentra en el repositorio
